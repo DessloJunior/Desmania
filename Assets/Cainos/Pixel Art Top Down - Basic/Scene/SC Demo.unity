@@ -28887,22 +28887,22 @@ PrefabInstance:
     - target: {fileID: 97940379881846774, guid: 78e9efbdf9b33994da8dfbe530f65e5e,
         type: 3}
       propertyPath: layerLower
-      value: Layer 3
+      value: Layer 2
       objectReference: {fileID: 0}
     - target: {fileID: 97940379881846774, guid: 78e9efbdf9b33994da8dfbe530f65e5e,
         type: 3}
       propertyPath: layerUpper
-      value: Layer 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 97940379881846774, guid: 78e9efbdf9b33994da8dfbe530f65e5e,
-        type: 3}
-      propertyPath: sortingLayerLower
       value: Layer 3
       objectReference: {fileID: 0}
     - target: {fileID: 97940379881846774, guid: 78e9efbdf9b33994da8dfbe530f65e5e,
         type: 3}
-      propertyPath: sortingLayerUpper
+      propertyPath: sortingLayerLower
       value: Layer 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 97940379881846774, guid: 78e9efbdf9b33994da8dfbe530f65e5e,
+        type: 3}
+      propertyPath: sortingLayerUpper
+      value: Layer 3
       objectReference: {fileID: 0}
     - target: {fileID: 6075975974917516975, guid: 78e9efbdf9b33994da8dfbe530f65e5e,
         type: 3}
